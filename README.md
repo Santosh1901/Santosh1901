@@ -23,6 +23,7 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Santosh1901&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh1901&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515" alt="santosh1901" /></p>
-
+Github Streak -- 🔥🔥
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devppratik&theme=dark" alt="devppratik" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh1901&text_color=daf7dc&bg_color=151515" alt="santosh1901" /></p>
  -->
