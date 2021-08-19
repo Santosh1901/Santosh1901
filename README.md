@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santosh</h1>
 <h3 align="center">A passionate coder</h3>
 
-- 🌱 I’m currently learning **Kotlin, Django**
-
 - 🤝 I’m looking for help with [CPP-codes](https://github.com/Santosh1901/CPP-codes)
 
 - 📫 How to reach me **pvsantosh2019@gmail.com**
