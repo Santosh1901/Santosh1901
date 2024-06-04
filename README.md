@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santosh</h1>
 <h3 align="center">A passionate coder</h3>
 
-- 🤝 I’m looking for help with [All-things-CPP](https://github.com/Santosh1901/All-things-CPP)
+- 🤝 A software Engineer!!
 
 - 📫 How to reach me **pvsantosh2019@gmail.com**
 
