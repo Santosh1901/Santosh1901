@@ -20,10 +20,10 @@ Building systems, agent memory, and polished web experiences.
 
 ### About
 
-I'm a software engineer who likes shipping **end-to-end systems** — durable memory, clean APIs, and UIs that feel intentional. Day job at Guidewire; nights on side projects that scratch systems + product itch.
+I'm a software engineer who likes shipping **end-to-end systems**: durable memory, clean APIs, and UIs that feel intentional. Day job at Guidewire; nights on side projects that scratch systems + product itch.
 
-- 🧠 **MemStack** — coding-agent memory on CockroachDB + S3  
-- 🖥️ **osui** — web desktop OS (window manager, VFS, apps)  
+- 🧠 **MemStack**: coding-agent memory on CockroachDB + S3  
+- 🖥️ **osui**: web desktop OS (window manager, VFS, apps)  
 - ☕ Long walks with C++, Python, TypeScript, and good coffee  
 
 ---
@@ -32,8 +32,8 @@ I'm a software engineer who likes shipping **end-to-end systems** — durable me
 
 | Project | What it is |
 |---------|------------|
-| **[MemStack](https://github.com/Santosh1901)** *(see cockroach / MemStack)* | Agent that remembers across sessions — CockroachDB vectors, S3 artifacts, Gemini/offline LLM |
-| **[osui](https://github.com/Santosh1901/osui)** | Browser desktop environment — multi-window shell, IndexedDB FS, Calculator / Finder / Terminal |
+| **[MemStack](https://github.com/Santosh1901)** *(see cockroach / MemStack)* | Agent that remembers across sessions: CockroachDB vectors, S3 artifacts, Gemini/offline LLM |
+| **[osui](https://github.com/Santosh1901/osui)** | Browser desktop environment: multi-window shell, IndexedDB FS, Calculator / Finder / Terminal |
 | **Live demo** | [osui-five.vercel.app](https://osui-five.vercel.app) |
 
 ---
@@ -57,7 +57,7 @@ I'm a software engineer who likes shipping **end-to-end systems** — durable me
 
 ### Connect
 
-- 💼 [LinkedIn — pv-santosh](https://linkedin.com/in/pv-santosh)  
+- 💼 [LinkedIn: pv-santosh](https://linkedin.com/in/pv-santosh)  
 - ✉️ pvsantosh2019@gmail.com  
 - 🏆 [CodeChef](https://www.codechef.com/users/santosh_pv) · [HackerRank](https://www.hackerrank.com/pv_santosh_) · [GeeksforGeeks](https://auth.geeksforgeeks.org/user/pvsantosh2019)
 
