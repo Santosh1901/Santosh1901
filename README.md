@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/profile.jpg" width="180" height="180" alt="P V Santosh" style="border-radius: 50%; object-fit: cover;" />
+<img src="assets/profile-circle.png" width="180" height="180" alt="P V Santosh" />
 
 # P V Santosh
 
