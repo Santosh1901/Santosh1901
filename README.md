@@ -9,7 +9,7 @@
 
 # Hi, I'm P V Santosh
 
-**Software Engineer II @ [Guidewire Software](https://www.guidewire.com/)** · Rourkela, India
+**Software Engineer II @ [Guidewire Software](https://www.guidewire.com/)** · Bengaluru, India
 
 I build durable systems, agent memory, and product-quality UI.
 
