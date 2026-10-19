@@ -11,11 +11,12 @@
 
 **Software Engineer II @ [Guidewire Software](https://www.guidewire.com/)** · Bengaluru, India
 
-I build durable systems, agent memory, and product-quality UI.
+Backend engineer focused on durable systems, distributed architecture, and clean product experiences. 3+ years building with Java/Spring Boot, Kafka, AWS, and modern tooling.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pv-santosh-portfolio.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pv-santosh)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pv_santosh66)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvsantosh2019@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santosh1901)
 ![Profile views](https://komarev.com/ghpvc/?username=Santosh1901&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
@@ -24,21 +25,25 @@ I build durable systems, agent memory, and product-quality UI.
 
 ### About me
 
-- 💼 Software Engineer II at Guidewire
-- 🧠 Interested in agent memory, distributed systems, and clean product UX
-- 🖥️ Side project: [osui](https://osui-five.vercel.app) (web desktop OS)
-- 🐍 Comfortable with Java, Python, TypeScript, C++, SQL, AWS
+- Software Engineer II at Guidewire Software (backend, microservices, event-driven systems)
+- Interested in agent memory, distributed systems, system design, and product-quality UX
+- Comfortable with Java, Python, TypeScript, C++, SQL, Kafka, Spring Boot, AWS
+- Side projects include web desktop OS experiments and API tooling
+- Actively exploring AI agents, long-term memory systems, and full-stack product building
+
+**Portfolio:** [pv-santosh-portfolio.lovable.app](https://pv-santosh-portfolio.lovable.app/)  
+(experience, selected work, and detailed project write-ups)
 
 ---
 
 ### Featured
 
-| | |
+| Project | Description |
 |:--|:--|
-| **[osui](https://osui-five.vercel.app)** | Browser desktop OS (React + TS). Live demo. |
-| **MemStack** | Coding-agent long-term memory (CockroachDB + S3 + LLM). |
-| **[API Journal](https://github.com/Santosh1901/API-Journal)** | API journaling project. |
-| **[All-things-DSA-CP](https://github.com/Santosh1901/All-things-DSA-CP)** | DSA / competitive programming notes and practice. |
+| **[osui](https://osui-five.vercel.app)** | Browser-based desktop OS (React + TypeScript). Live demo. |
+| **[API Journal](https://github.com/Santosh1901/API-Journal)** | API journaling and tracking project. |
+| **[All-things-DSA-CP](https://github.com/Santosh1901/All-things-DSA-CP)** | DSA and competitive programming notes, implementations, and practice in C++. |
+| **[my-writings](https://santosh1901.github.io/my-writings/)** | Personal writings and notes. |
 
 <p align="center">
   <a href="https://github.com/Santosh1901/API-Journal">
@@ -48,21 +53,13 @@ I build durable systems, agent memory, and product-quality UI.
     <img src="https://github-readme-stats-plus.vercel.app/api/pin/?username=Santosh1901&repo=All-things-DSA-CP&theme=tokyonight&hide_border=true" alt="All-things-DSA-CP" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/Santosh1901/Django-Weather-App">
-    <img src="https://github-readme-stats-plus.vercel.app/api/pin/?username=Santosh1901&repo=Django-Weather-App&theme=tokyonight&hide_border=true" alt="Django-Weather-App" />
-  </a>
-  <a href="https://github.com/Santosh1901/Rest-API-APP">
-    <img src="https://github-readme-stats-plus.vercel.app/api/pin/?username=Santosh1901&repo=Rest-API-APP&theme=tokyonight&hide_border=true" alt="Rest-API-APP" />
-  </a>
-</p>
 
 ---
 
 ### Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,ts,js,react,nodejs,django,postgres,aws,git,linux,docker,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,ts,js,react,nodejs,spring,kafka,postgres,aws,docker,git,linux,vscode" alt="skills" />
 </p>
 
 ---
@@ -89,9 +86,11 @@ I build durable systems, agent memory, and product-quality UI.
 
 ### Connect
 
+- Portfolio: [pv-santosh-portfolio.lovable.app](https://pv-santosh-portfolio.lovable.app/)
 - LinkedIn: [pv-santosh](https://linkedin.com/in/pv-santosh)
+- X: [@pv_santosh66](https://x.com/pv_santosh66)
 - Email: pvsantosh2019@gmail.com
-- CodeChef · HackerRank · GeeksforGeeks: links on my profile badges above / competitive handles `santosh_pv`, `pv_santosh_`
+- Competitive programming: `santosh_pv` / `pv_santosh_` (CodeChef, HackerRank, GeeksforGeeks)
 
 <div align="center">
 
