@@ -36,10 +36,31 @@ Backend engineer focused on durable systems, distributed architecture, and clean
 
 ---
 
+### Building One More Pass
+
+[**One More Pass**](https://one-more-pass.vercel.app/) is my free DSA revision tool for remembering problems you have already solved.
+
+- Complete Blind 75 and NeetCode 150 collections, with 151 unique problems
+- Recall rounds, reasoning, common mistakes and Java solutions
+- Java bug challenges, personal revision queues and optional Google progress sync
+
+[Try the app](https://one-more-pass.vercel.app/) · [Source code](https://github.com/Santosh1901/one-more-pass) · [Product Hunt](https://www.producthunt.com/products/one-more-pass)
+
+<a href="https://www.producthunt.com/products/one-more-pass?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-one-more-pass" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1286744&amp;theme=dark&amp;t=1792507948497">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1286744&amp;theme=light&amp;t=1792507933630">
+    <img alt="One More Pass on Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1286744&amp;theme=neutral&amp;t=1792507943298">
+  </picture>
+</a>
+
+---
+
 ### Featured
 
 | Project | Description |
 |:--|:--|
+| **[One More Pass](https://one-more-pass.vercel.app/)** | Free Blind 75 and NeetCode 150 revision with Java explanations, recall rounds and progress tracking. [Source](https://github.com/Santosh1901/one-more-pass). |
 | **[osui](https://osui-five.vercel.app)** | Browser-based desktop OS (React + TypeScript). Live demo. |
 | **[API Journal](https://github.com/Santosh1901/API-Journal)** | API journaling and tracking project. |
 | **[All-things-DSA-CP](https://github.com/Santosh1901/All-things-DSA-CP)** | DSA and competitive programming notes, implementations, and practice in C++. |
